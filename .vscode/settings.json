@@ -1,0 +1,40 @@
+{
+    "markdown.extension.toc.levels": "2..6",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "cSpell.words": [
+        "ACSC",
+        "ADFS",
+        "Advantech",
+        "ALPHV",
+        "ASIM",
+        "CASB",
+        "Cheatsheets",
+        "CISA",
+        "Corelight",
+        "datalake",
+        "EASM",
+        "Intune",
+        "kqlmagic",
+        "Kusto",
+        "Meraki",
+        "Offboarding",
+        "onboarded",
+        "ontop",
+        "Playbooks",
+        "SIEM",
+        "signins",
+        "SLES",
+        "SOCI",
+        "STIX",
+        "WASOC",
+        "WDAC"
+    ],
+    "cSpell.language": "en-GB",
+    "cSpell.ignorePaths": [
+        "*.json",
+        "*.yml"
+    ],
+    "markdown.extension.completion.root": "docs"
+}

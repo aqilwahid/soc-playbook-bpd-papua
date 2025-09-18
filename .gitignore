@@ -1,0 +1,6 @@
+nohup.out
+__pycache__
+site
+.ipynb_checkpoints
+.DS_Store
+.swp
